@@ -17,3 +17,7 @@ The architecture covers:
 See `globalmart_architecture.png` for the architecture overview.
 
 **Note:** The diagram illustrates the intended end-to-end design. Some ADF pipeline definitions are reconstructed documentation and should not be considered deployed or verified until tested in Azure Data Factory.
+
+## Architecture
+
+![GlobalMart Architecture](docs/architecture/globalmart_architecture.png)
