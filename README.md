@@ -4,10 +4,7 @@ An end-to-end Azure Data Engineering portfolio project that transforms GlobalMar
 
 ## Project Overview
 
-GlobalMart is a fictional retail business used to simulate a data platform that integrates customer, product, order, payment, store, and regional data. The platform demonstrates data ingestion, lakehouse transformations, data quality checks, incremental processing, dimensional modeling, and business reporting.
-
-**Project type:** Personal portfolio project  
-**Domain:** Retail and sales analytics
+GlobalMart is a retail business project used to simulate a data platform that integrates customer, product, order, payment, store, and regional data. The platform demonstrates data ingestion, lakehouse transformations, data quality checks, incremental processing, dimensional modeling, and business reporting.
 
 ## Architecture
 
