@@ -177,6 +177,3 @@ Dataset counts and results reflect the current development data and may change a
 
 This project is designed to develop practical skills in Azure Data Engineering, including lakehouse architecture, PySpark transformations, Delta Lake, data quality, incremental loads, dimensional modeling, and analytics delivery.
 
-## Disclaimer
-
-GlobalMart is a fictional dataset and this repository represents a personal learning and portfolio project. It is not a production deployment for an actual company.
